@@ -1,3 +1,0 @@
-connection string: mongodb+srv://chitchattery-user:llJ5UPwmtmVtwaqC@cluster0.pp8hx.mongodb.net/chitchattery
-username:chitchattery-user
-password:llJ5UPwmtmVtwaqC
